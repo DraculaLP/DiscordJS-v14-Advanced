@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.0.0-dev.1649030898-5748dbe"
+  },
+  "name": "discordjs-v14-advanced",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlameQuard/DiscordJS-v14-Advanced.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlameQuard/DiscordJS-v14-Advanced/issues"
+  },
+  "homepage": "https://github.com/FlameQuard/DiscordJS-v14-Advanced#readme",
+  "description": ""
+}
